@@ -1,0 +1,172 @@
+[class*="col-"] {
+    float: left;
+
+    
+}
+
+.col-2 {width: 8.33%; padding: 15px; }
+
+.ss{
+  padding: 0px 25px 0px 35px;
+}
+.uu{
+  font-size: 30px; color:white; line-height: 80px; text-align: center;
+}
+
+.icon{
+	  font-size: 60px;
+	  color: red;
+text-align: center;
+}
+
+
+.art6{
+height:auto; background-color: white;
+ width:18%; text-align: center; padding: 10px 0px;
+border-radius: 20px;
+}
+.aa{
+ margin-top:60px;height: auto;background-color: #90AAAA; height:470px; width:100%;
+}
+
+     @media only screen and (max-width:1050px){
+     .col-2{
+     	width:4%;
+     	padding: 10px 10px;
+     }
+
+
+
+.col-s-12.art6 {
+	width:22%;
+	float: left;
+	padding: 0px;
+	margin: 10px 0px;
+
+ }
+
+ .aa{
+ margin-top:60px;height: auto; height:470px; width:100%;
+}
+
+}
+
+
+
+        @media only screen and (max-width:850px){
+     
+  .col-2{
+     	width:2%;
+     	padding: 10px 10px;
+     }
+
+
+.col-s-12.art6 {
+	width:45%;
+	float: left;
+	margin: 10px 7px;
+
+ }
+
+
+ .aa{
+ margin-top:60px;height: auto; height:640px; width:100%;
+}
+
+}
+
+
+        @media only screen and (max-width:800px){
+     
+  .col-2{
+      width:2%;
+      padding: 10px 5px;
+     }
+
+
+.col-s-12.art6 {
+  width:45%;
+  float: left;
+  margin: 10px 7px;
+
+ }
+
+
+ .aa{
+ margin-top:60px;height: auto; height:680px; width:100%;
+}
+
+}
+
+        @media only screen and (max-width:700px){
+     
+  .col-2{
+     	width:2%;
+     	padding: 10px 5px;
+     }
+
+
+.col-s-12.art6 {
+	width:45%;
+	float: left;
+	margin: 10px 7px;
+
+ }
+
+
+ .aa{
+ margin-top:60px;height: auto; height:680px; width:100%;
+}
+
+}
+        @media only screen and (max-width:600px){
+     
+  .col-2{
+      width:2%;
+      padding: 10px 5px;
+     }
+
+
+.col-s-12.art6 {
+  width:45%;
+  float: left;
+  margin: 10px 7px;
+
+ }
+
+
+ .aa{
+ margin-top:60px;height: auto; height:790px; width:100%;
+}
+
+}
+
+
+        @media only screen and (max-width:550px){
+     
+
+.col-s-12.art6{
+	width:100%;
+	float: left;
+	 padding: 15px; 
+
+ }
+
+
+ 
+
+.ss{
+padding: 0px 30px 0px 10px;
+}
+.art6{
+  height:300px;
+}
+.uu{
+   font-size: 20px; 
+}
+.aa{
+	height:1600px;
+}
+
+
+}

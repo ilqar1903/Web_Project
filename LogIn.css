@@ -1,0 +1,257 @@
+body{
+	background-image: url(images/loi.jpeg);
+background-size: cover;
+
+}
+
+form{
+
+
+	margin: 200px auto;
+	width:50%;
+	max-width: 700px;
+	background-color: #fff;
+	padding: 30px;
+	opacity: 0.70;
+background-image: url(images/loi.jpeg);
+background-size: 150% 100%;
+}
+h2{
+	text-align: center;
+	margin-bottom: 20px;
+	color: rgba(0,0,0,0.5);
+}
+.ii{
+width:48%; padding:13px; margin-left: 9.2px; background: blue;color: #eee;font-size: 19px; 
+}
+.rr{
+ padding-left: 100px; color: white; font-size: 16px;
+}
+.io{
+width:48%; padding:13px;  background:#42A5F5; color: #eee;font-size: 19px; cursor: pointer;
+}
+input{
+		display: inline-block;
+	padding: 10px;
+	width:97%;
+	margin: 15px 10px;
+	font-size: 17px;
+}
+input[type="text"]{
+	display: inline-block;
+	padding: 10px;
+	width:48%;
+	margin: 15px 0px;
+	font-size: 17px;
+}
+input[type="submit"]{
+	background:linear-gradient(#121221,#ada);
+	border: 0;
+color: #FFF;
+font-size: 20px;
+	margin-bottom: 0;
+	cursor: pointer;
+}
+input[type="submit"]:hover{
+	opacity: 0.95;
+}
+input[type="submit"]:active{
+transform: scale(0.95);
+}
+@media (max-width: 1500px){
+		form{
+		width:65%;
+	}
+	.ii{
+	width:48%;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+.io{
+	width:47.7%;
+margin-left: 0px;
+
+}
+
+.rr{
+	padding-left: 100px;
+
+}
+
+}
+@media (max-width: 1300px){
+		form{
+		width:65%;
+	}
+	.ii{
+	width:48%;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+.io{
+	width:47.7%;
+margin-left: 0px;
+
+}
+
+.rr{
+	padding-left: 10px;
+
+}
+
+}
+@media (max-width: 1200px){
+		form{
+		width:65%;
+	}
+	.ii{
+	width:48%;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+.io{
+	width:47.7%;
+margin-left: 0px;
+
+}
+
+.rr{
+	padding-left: 17px;
+
+}
+
+}
+
+@media (max-width: 1000px){
+		form{
+		width:65%;
+	}
+	.ii{
+	width:48%;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+.io{
+	width:47.7%;
+margin-left: 0px;
+
+}
+
+.rr{
+	padding-left:7px;
+
+}
+
+}
+
+@media (max-width: 820px){
+	form{
+		width:80%;
+	}
+	.ii{
+	width:48%;
+margin-bottom: 10px;
+margin-left: 10px;
+
+}
+.io{
+	width:47.7%;
+margin-left: 0px;
+
+}
+
+.rr{
+	padding-left: 9px;
+
+}
+
+
+}
+
+
+@media (max-width: 600px){
+	form{
+		width:95%;
+	}
+.ii{
+	width:96%;
+margin-bottom: 10px;
+margin-left: 10px;
+}
+.io{
+	width:96%;
+margin-left: 10px;
+
+}
+
+.rr{
+	padding-left: 157px;
+
+}
+input[type="text"]{
+	display: inline-block;
+	padding: 7px;
+	width:47.25%;
+	margin: 15px 0px;
+	font-size: 17px;
+}
+}
+@media (max-width: 470px){
+	form{
+		width:95%;
+	}
+.ii{
+	width:96%;
+margin-bottom: 10px;
+margin-left: 10px;
+}
+.io{
+	width:96%;
+margin-left: 10px;
+
+}
+
+.rr{
+	padding-left: 87px;
+
+}
+
+input[type="text"]{
+	display: inline-block;
+	padding: 7px;
+	width:47.25%;
+	margin: 15px 0px;
+	font-size: 17px;
+}
+}
+@media (max-width: 380px){
+	form{
+		width:95%;
+	}
+.ii{
+	width:96%;
+margin-bottom: 10px;
+margin-left: 10px;
+}
+.io{
+	width:96%;
+margin-left: 10px;
+
+}
+
+.rr{
+	padding-left: 57px;
+
+}
+input[type="text"]{
+	display: inline-block;
+	padding: 7px;
+	width:47.25%;
+	margin: 15px 0px;
+	font-size: 17px;
+}
+}
