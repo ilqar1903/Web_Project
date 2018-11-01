@@ -1,5 +1,5 @@
 # Web_Project
-About Simple site demo
+About Simple site demo. Site is created with HTML5 CSS3 and JAVASCRIPT. Also Site is responsive. 
 ![image2](https://user-images.githubusercontent.com/32732984/47845164-b5a80b00-dddd-11e8-92bb-dfd6e9be71bf.PNG)
 
 ![image3](https://user-images.githubusercontent.com/32732984/47845168-bb055580-dddd-11e8-91eb-b0ddb4f03ead.PNG)
